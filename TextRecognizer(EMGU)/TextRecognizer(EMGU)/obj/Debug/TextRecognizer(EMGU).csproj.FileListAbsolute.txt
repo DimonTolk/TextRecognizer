@@ -1,0 +1,14 @@
+D:\(4)Codding\C#Projects\TextRecognizer\TextRecognizer(EMGU)\TextRecognizer(EMGU)\bin\Debug\TextRecognizer(EMGU).exe.config
+D:\(4)Codding\C#Projects\TextRecognizer\TextRecognizer(EMGU)\TextRecognizer(EMGU)\bin\Debug\TextRecognizer(EMGU).exe
+D:\(4)Codding\C#Projects\TextRecognizer\TextRecognizer(EMGU)\TextRecognizer(EMGU)\bin\Debug\TextRecognizer(EMGU).pdb
+D:\(4)Codding\C#Projects\TextRecognizer\TextRecognizer(EMGU)\TextRecognizer(EMGU)\bin\Debug\Emgu.CV.Platform.NetFramework.dll
+D:\(4)Codding\C#Projects\TextRecognizer\TextRecognizer(EMGU)\TextRecognizer(EMGU)\bin\Debug\Emgu.CV.Platform.NetStandard.dll
+D:\(4)Codding\C#Projects\TextRecognizer\TextRecognizer(EMGU)\TextRecognizer(EMGU)\bin\Debug\Emgu.CV.Platform.NetFramework.xml
+D:\(4)Codding\C#Projects\TextRecognizer\TextRecognizer(EMGU)\TextRecognizer(EMGU)\bin\Debug\Emgu.CV.Platform.NetStandard.xml
+D:\(4)Codding\C#Projects\TextRecognizer\TextRecognizer(EMGU)\TextRecognizer(EMGU)\obj\Debug\TextRecognizer(EMGU).csprojAssemblyReference.cache
+D:\(4)Codding\C#Projects\TextRecognizer\TextRecognizer(EMGU)\TextRecognizer(EMGU)\obj\Debug\TextRecognizer_EMGU_.Form1.resources
+D:\(4)Codding\C#Projects\TextRecognizer\TextRecognizer(EMGU)\TextRecognizer(EMGU)\obj\Debug\TextRecognizer_EMGU_.Properties.Resources.resources
+D:\(4)Codding\C#Projects\TextRecognizer\TextRecognizer(EMGU)\TextRecognizer(EMGU)\obj\Debug\TextRecognizer(EMGU).csproj.GenerateResource.cache
+D:\(4)Codding\C#Projects\TextRecognizer\TextRecognizer(EMGU)\TextRecognizer(EMGU)\obj\Debug\TextRecognizer(EMGU).csproj.CopyComplete
+D:\(4)Codding\C#Projects\TextRecognizer\TextRecognizer(EMGU)\TextRecognizer(EMGU)\obj\Debug\TextRecognizer(EMGU).exe
+D:\(4)Codding\C#Projects\TextRecognizer\TextRecognizer(EMGU)\TextRecognizer(EMGU)\obj\Debug\TextRecognizer(EMGU).pdb
